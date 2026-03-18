@@ -37,7 +37,8 @@ Learning backend and building projects step by step.
 ---
 
 ## 📌 Projects
-Working on backend projects — coming soon.
+Service-Booking-Platform : https://github.com/khaledalsherif/Service-Booking-Platform
+Team-Management-SaaS-API : https://github.com/khaledalsherif/Team-Management-SaaS-API
 
 ---
 
